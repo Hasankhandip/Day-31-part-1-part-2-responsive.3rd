@@ -295,6 +295,9 @@
 	padding-left: calc(var(--bs-gutter-x)/ 2);
 	margin-top: var(--bs-gutter-y);
 }
+	.portfolio-item {
+	margin-bottom: 0px;
+}
 .text-w-50 {
 	width: 100%;
 }
